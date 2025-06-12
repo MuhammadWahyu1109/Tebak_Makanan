@@ -19,7 +19,7 @@ Aplikasi **Tebak Makanan** adalah media pembelajaran interaktif untuk membantu p
 
 Klik tombol di bawah ini untuk langsung mengunduh file `.apk`:
 
-➡️ [Download Tebak_Makanan.apk](https://github.com/USERNAME/REPO-NAME/releases/download/v1.0/Tebak_Makanan.apk)
+➡️ [Download Tebak_Makanan.apk](https://github.com/MuhammadWahyu1109/Tebak_Makanan/releases/download/v1.0/Tebak_Makanan.apk)
 
 > 📌 Catatan: Jika file tidak terdownload otomatis, klik kanan dan pilih "Save link as..." atau buka di tab baru.
 
