@@ -19,7 +19,7 @@ Klik link berikut untuk mengunduh file `.apk`:
 
 ➡️ [Download Tebak_Makanan.apk](https://github.com/MuhammadWahyu1109/Tebak_Makanan/blob/main/Tebak_Makanan.apk)
 
-> 📌 Catatan: Jika file tidak otomatis terunduh, klik kanan link lalu pilih **"Save link as..."** atau buka di tab baru.
+> 📌 Catatan: Klik tombol unduh pada sebelah pojok kanan tampilan halaman.
 
 ---
 
